@@ -1,0 +1,25 @@
+body{
+    background-image: url("high-mountains-of-the-alps.jpeg");
+    background-size: cover;
+}
+
+.wrapper{
+    background-color: white;
+}
+
+.header{
+    text-align: center;
+    font-weight: bold;
+    color: goldenrod;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.section{
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkblue;
+    padding: 1em;
+}
